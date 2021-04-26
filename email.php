@@ -1,0 +1,5 @@
+<?
+
+$to = "info@cargsoft.com";
+
+?>
